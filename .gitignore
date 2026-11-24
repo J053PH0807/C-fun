@@ -1,3 +1,6 @@
+# Local programlet builds
+/build/
+
 # Prerequisites
 *.d
 
